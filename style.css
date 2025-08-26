@@ -96,7 +96,7 @@ p3 {
 
 #mobile-background {
     width: 100vw;
-    height: 100vh;
+    height: 75vh;
     display: none;
     object-fit: cover;
 }
@@ -870,4 +870,5 @@ footer {
     color: var(--black);
     cursor: pointer;
 }
+
 
