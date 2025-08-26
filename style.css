@@ -99,6 +99,7 @@ p3 {
     height: 350px;
     display: none;
     object-fit: cover;
+  background-color: #000000;
 }
 
 @media screen and (max-width: 640px){
@@ -870,6 +871,7 @@ footer {
     color: var(--black);
     cursor: pointer;
 }
+
 
 
 
